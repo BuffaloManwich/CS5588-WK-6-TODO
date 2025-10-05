@@ -1,0 +1,3 @@
+variant,retriever_k,hop_limit,accuracy,notes
+dense+graph,5,2,,seeds=5 expanded=813 latency_s=2.38
+dense+graph,5,2,,seeds=5 expanded=813 latency_s=1.05

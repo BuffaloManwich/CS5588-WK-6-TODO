@@ -1,0 +1,22 @@
+{
+  "python_venv": "/home/manny-buff/venvs/core-rag",
+  "python_version": "3.11.9",
+  "cuda": null,
+  "gpu": null,
+  "pip_packages": [],
+  "notes": "To be filled by Step 2 environment probe.",
+  "platform": "Linux-6.14.0-33-generic-x86_64-with-glibc2.39",
+  "cuda_visible_devices": null,
+  "nvidia_smi": "NVIDIA GeForce RTX 4080, 580.65.06, 16376 MiB",
+  "which_python": "/home/manny-buff/venvs/core-rag/bin/python",
+  "pip_freeze_head": "accelerate==1.10.1\nacres==0.5.0\naiofiles==24.1.0\naiohappyeyeballs==2.6.1\naiohttp==3.12.15\naiosignal==1.4.0\naiosqlite==0.21.0\naltair==5.5.0\nannotated-types==0.7.0\nanyio==4.10.0\nargon2-cffi==25.1.0\nargon2-cffi-bindings==25.1.0\narrow==1.3.0\nasttokens==3.0.0\nasync-lru==2.0.5\nattrs==25.3.0\nav==15.1.0\nbabel==2.17.0\nbackoff==2.2.1\nbanks==2.2.0",
+  "packages": {
+    "numpy": "2.2.1",
+    "pandas": "2.2.3",
+    "networkx": "3.3",
+    "sentence_transformers": "3.0.1",
+    "transformers": "4.56.2",
+    "accelerate": "1.10.1",
+    "faiss": "1.10.0"
+  }
+}

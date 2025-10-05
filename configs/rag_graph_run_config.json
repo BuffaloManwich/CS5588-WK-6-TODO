@@ -1,0 +1,13 @@
+{
+  "corpus_root": "/home/manny-buff/projects/capstone/hw-rag/data/",
+  "embed_model": "intfloat/e5-small-v2",
+  "llm_model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "llm_local_path": "/home/manny-buff/projects/capstone/hw-rag/models/Qwen2-VL-2B-Instruct/",
+  "device": "cuda",
+  "graph_backend": "networkx",
+  "vector_db_dir": "/home/manny-buff/projects/capstone/week6-rag-graph/artifacts/vdb",
+  "retriever_k": 5,
+  "hop_limit": 2,
+  "use_graph_rag": true,
+  "streamlit": { "enable": true, "top_k": 5, "hop_limit": 2 }
+}
